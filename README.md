@@ -65,7 +65,7 @@ Following are the considerations that I have made before beginning the developme
 ## Installation guidlines
 
 1. Clone this repository into your local system.
-2. `cd` into root directory and create a Virtual Environment `python -m venv venv`
+2. `cd` into `<root_directory>/event_manager` and create a Virtual Environment `python -m venv venv`
 3. Activate the virtual environment
    Windows: `venv/Scripts/activate`
    MacOS/Linux: `source venv/bin/activate`
