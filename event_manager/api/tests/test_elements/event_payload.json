@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Event 1",
+    "capacity": 10
+  },
+  {
+    "name": "Event 2",
+    "capacity": 1
+  }
+]

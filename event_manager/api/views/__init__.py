@@ -1,0 +1,3 @@
+from .events import EventViewSet
+from .event_registration import EventRegistrationView
+from .registrations_on_event import RegistrationOnEventsView
